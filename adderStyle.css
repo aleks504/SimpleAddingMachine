@@ -1,0 +1,90 @@
+body
+{
+  height: 100%;
+  background: linear-gradient(90deg, #242222 50%, #e3e3e3 50%);
+
+}
+#Button1
+{
+  height: 60px;
+  width: 60px;
+  background-color: #116658;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  border-radius: 11px;
+}
+#Button1:hover
+{
+  height: 60px;
+  width: 60px;
+  background-color: #0f4a40;
+  color: white;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  border-radius: 11px;
+}
+#Button2
+{
+  height: 60px;
+  width: 60px;
+  background-color: white;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  border-radius: 11px;
+}
+#Button2:hover
+{
+  height: 60px;
+  width: 60px;
+  background-color: #d6d4d4;
+  color: black;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 15px;
+  border-radius: 11px;
+}
+#clearButton
+{
+  background: linear-gradient(90deg, #e3e3e3 50%, #242222 50%);
+  height: 50px;
+  width: 110px;
+  color: #188f7b;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 20px;
+  border-radius: 11px;
+}
+#clearButton:hover
+{
+  background: linear-gradient(90deg, #242222 50%, #e3e3e3 50%);
+  height: 50px;
+  width: 110px;
+  color: #188f7b;
+  font-family: 'Quicksand', sans-serif;
+  border-radius: 11px;
+}
+h1
+{
+  font-family: 'Grechen Fuemen', cursive;
+  color: #188f7b;
+  font-size: 50px;
+  font-family: 'Montserrat', sans-serif;
+}
+hr
+{
+  width: 900px;
+}
+#output1
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+  color: #188f7b;
+}
+#output2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+  color: #188f7b;
+}
